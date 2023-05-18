@@ -1,6 +1,6 @@
 # LittleLemonAPI project for Meta Back-end developer
 > Presenting a project highlighting the progress of back-end API development for Little Lemon restaurant. These APIs encompass a range of functionalities, including user management, menu administration, order handling, and customer interactions. Noteworthy features that have been implemented comprise user authentication, menu browsing, cart administration, order placement, and delivery management.
-## Features
+# Features
 - The admin can assign users to the manager group
 - You can access the manager group with an admin token
 - The admin can add menu items
